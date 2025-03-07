@@ -3,7 +3,13 @@ body{
 	text-align:center;
 	color: white;
 	font-size: 10px;
+}
+
+h1{
+	font-size: xx-large;
+	text-shadow: 4px 4px 7px black;
 	padding-top:350px;
+
 }
 
 button{
@@ -16,4 +22,5 @@ button{
 	outline-color:red;
 	font-size:20px;
 	color:white;
+	border-radius: 3rem;
 }
