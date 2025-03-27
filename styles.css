@@ -24,3 +24,18 @@ button{
 	color:white;
 	border-radius: 3rem;
 }
+#nav ul, li{
+	text-align: start;
+	font-size: 20pt;
+	text-decoration: none;
+	display: flex;
+	gap: 50px;
+	font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+	color: aqua;
+	text-shadow: -5px 5px 5px black;
+	& :hover{
+		background-color: blueviolet;
+		color: white;
+		border-radius: 1rem;
+	}
+}
